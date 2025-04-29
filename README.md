@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+tactical-planning-management
+# Tactical Planning Management
 
 > Slugline
 
@@ -17,7 +17,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+[Strategic planning](https://github.com/vanHeemstraSystems/strategic-planning-management) (6 years timespan) is the lead to tactical planning (6 quarter timespan).
 
 Generated with [Rytr](https://app.rytr.me)
 
