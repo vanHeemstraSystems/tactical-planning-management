@@ -21,7 +21,7 @@ tactical-planning-management
 
 Generated with [Rytr](https://app.rytr.me)
 
-![Image](https://github.com/user-attachments/assets/e3c7c85a-ccdc-4fc6-8d3a-ea52077944c3)
+![Image](https://github.com/user-attachments/assets/b8b7b6d0-6511-4dea-8934-be7b5257d7fc)
 
 ## 100 - Introduction
 
