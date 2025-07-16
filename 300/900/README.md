@@ -1,6 +1,6 @@
 # 900 - Tactical Planning Management
 
-Following from the [Strategic Planning Management](https://github.com/vanHeemstraSystems/strategic-planning-management), the following table should be created and maintained at tactical level for use at the PI report out:
+Following from the [Strategic Planning Management](https://github.com/vanHeemstraSystems/strategic-planning-management), the following table should be created and maintained at tactical level within the Agile Release Train (ART) for use at the PI report out:
 
 <table>
 <th colspan="8">PI YYQ##.[SprintNr] - PIPE report out </th><tr/>
