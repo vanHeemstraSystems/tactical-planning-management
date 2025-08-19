@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/tactical-planning-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/tactical-planning-management/actions/workflows/publish.yml)
+
 tactical-planning-management
 # Tactical Planning Management
 
