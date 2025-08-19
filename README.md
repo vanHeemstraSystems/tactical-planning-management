@@ -23,6 +23,15 @@ Generated with [Rytr](https://app.rytr.me)
 
 ![Image](https://github.com/user-attachments/assets/b8b7b6d0-6511-4dea-8934-be7b5257d7fc)
 
+<table>
+<th colspan="5">Summarize with:</th><tr/> 
+<td><a href="https://chat.openai.com/?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/tactical-planning-management/">ChatGPT</a></td>
+<td><a href="https://x.com/i/grok?text=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/tactical-planning-management/">Grok</a></td>
+<td><a href="https://www.google.com/search?udm=50&aep=11&q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/tactical-planning-management/">Google AI Mode</a></td>
+<td><a href="https://www.perplexity.ai/search/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/tactical-planning-management/">Perplexity</a></td>
+<td><a href="https://claude.ai/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/tactical-planning-management/">Claude.ai</a></td>  
+</table>
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
