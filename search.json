@@ -1,0 +1,450 @@
+[
+  {
+    "objectID": "REFERENCES.html",
+    "href": "REFERENCES.html",
+    "title": "References",
+    "section": "",
+    "text": "References\n\nReference Name\nRepoToText\nBuilding React Apps in an Nx Monorepo"
+  },
+  {
+    "objectID": "GLOSSARY.html",
+    "href": "GLOSSARY.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "Glossary\n\nOTLP: OpenTelemetry Protocol"
+  },
+  {
+    "objectID": "README.fr.html",
+    "href": "README.fr.html",
+    "title": "Nom de référentiel",
+    "section": "",
+    "text": "nom de référentiel"
+  },
+  {
+    "objectID": "README.fr.html#introduction",
+    "href": "README.fr.html#introduction",
+    "title": "Nom de référentiel",
+    "section": "100 - Introduction",
+    "text": "100 - Introduction\nVoirREADME.md"
+  },
+  {
+    "objectID": "README.fr.html#exigences",
+    "href": "README.fr.html#exigences",
+    "title": "Nom de référentiel",
+    "section": "200 - exigences",
+    "text": "200 - exigences\nVoirREADME.md"
+  },
+  {
+    "objectID": "README.fr.html#construire-notre-application",
+    "href": "README.fr.html#construire-notre-application",
+    "title": "Nom de référentiel",
+    "section": "300 - Construire notre application",
+    "text": "300 - Construire notre application\nVoirREADME.md"
+  },
+  {
+    "objectID": "README.fr.html#conclusion",
+    "href": "README.fr.html#conclusion",
+    "title": "Nom de référentiel",
+    "section": "400 - Conclusion",
+    "text": "400 - Conclusion\nVoirREADME.md"
+  },
+  {
+    "objectID": "README.zh-CN.html",
+    "href": "README.zh-CN.html",
+    "title": "存储库名称",
+    "section": "",
+    "text": "repository-name"
+  },
+  {
+    "objectID": "README.zh-CN.html#简介",
+    "href": "README.zh-CN.html#简介",
+    "title": "存储库名称",
+    "section": "100-简介",
+    "text": "100-简介\n看README.md"
+  },
+  {
+    "objectID": "README.zh-CN.html#要求",
+    "href": "README.zh-CN.html#要求",
+    "title": "存储库名称",
+    "section": "200-要求",
+    "text": "200-要求\n看README.md"
+  },
+  {
+    "objectID": "README.zh-CN.html#building-our-application",
+    "href": "README.zh-CN.html#building-our-application",
+    "title": "存储库名称",
+    "section": "300 - Building Our Application",
+    "text": "300 - Building Our Application\n看README.md"
+  },
+  {
+    "objectID": "README.zh-CN.html#结论",
+    "href": "README.zh-CN.html#结论",
+    "title": "存储库名称",
+    "section": "400-结论",
+    "text": "400-结论\n看README.md"
+  },
+  {
+    "objectID": "README.de.html",
+    "href": "README.de.html",
+    "title": "Repository -Name",
+    "section": "",
+    "text": "Repository-Namen"
+  },
+  {
+    "objectID": "README.de.html#einführung",
+    "href": "README.de.html#einführung",
+    "title": "Repository -Name",
+    "section": "100 - Einführung",
+    "text": "100 - Einführung\nSehenREADME.md"
+  },
+  {
+    "objectID": "README.de.html#anforderungen",
+    "href": "README.de.html#anforderungen",
+    "title": "Repository -Name",
+    "section": "200 - Anforderungen",
+    "text": "200 - Anforderungen\nSehenREADME.md"
+  },
+  {
+    "objectID": "README.de.html#aufbau-unserer-bewerbung",
+    "href": "README.de.html#aufbau-unserer-bewerbung",
+    "title": "Repository -Name",
+    "section": "300 - Aufbau unserer Bewerbung",
+    "text": "300 - Aufbau unserer Bewerbung\nSehenREADME.md"
+  },
+  {
+    "objectID": "README.de.html#schlussfolgerung",
+    "href": "README.de.html#schlussfolgerung",
+    "title": "Repository -Name",
+    "section": "400 - Schlussfolgerung",
+    "text": "400 - Schlussfolgerung\nSehenREADME.md"
+  },
+  {
+    "objectID": "README.hi.html",
+    "href": "README.hi.html",
+    "title": "भंडार नाम",
+    "section": "",
+    "text": "भंडार-नाम"
+  },
+  {
+    "objectID": "README.hi.html#परचय",
+    "href": "README.hi.html#परचय",
+    "title": "भंडार नाम",
+    "section": "100 - परिचय",
+    "text": "100 - परिचय\nदेखनाREADME.md"
+  },
+  {
+    "objectID": "README.hi.html#आवशयकतए",
+    "href": "README.hi.html#आवशयकतए",
+    "title": "भंडार नाम",
+    "section": "200 - आवश्यकताएँ",
+    "text": "200 - आवश्यकताएँ\nदेखनाREADME.md"
+  },
+  {
+    "objectID": "README.hi.html#हमर-आवदन-क-नरमण",
+    "href": "README.hi.html#हमर-आवदन-क-नरमण",
+    "title": "भंडार नाम",
+    "section": "300 - हमारे आवेदन का निर्माण",
+    "text": "300 - हमारे आवेदन का निर्माण\nदेखनाREADME.md"
+  },
+  {
+    "objectID": "README.hi.html#नषकरष",
+    "href": "README.hi.html#नषकरष",
+    "title": "भंडार नाम",
+    "section": "400 - निष्कर्ष",
+    "text": "400 - निष्कर्ष\nदेखनाREADME.md"
+  },
+  {
+    "objectID": "REQUIREMENTS.html",
+    "href": "REQUIREMENTS.html",
+    "title": "Requirements",
+    "section": "",
+    "text": "Requirements\n\nHatch: simply run $ pip install hatch. Your output will look something like this:\n   Installing collected packages: trove-classifiers, zstandard, uv, tomli-w, shellingham, pluggy, pathspec, hyperlink, click, userpath, hatchling, hatch\n   Successfully installed click-8.1.7 hatch-1.13.0 hatchling-1.25.0 hyperlink-21.0.0 pathspec-0.12.1 pluggy-1.5.0 shellingham-1.5.4 tomli-w-1.1.0 trove-classifiers-2024.10.21.16 userpath-1.9.2 uv-0.4.26 zstandard-0.23.0\n\nYou can also install Hatch as an application on Windows and Mac operating systems. Conda, pipx, Homebrew, MacPorts, Fedora, and Void Linux installation methods are also available.\nWe’ll not add hatch to the requirements.txt file, as it is used purely to manage the development and build of the application but is not part of the aplication."
+  },
+  {
+    "objectID": "DOCUMENTATION.html",
+    "href": "DOCUMENTATION.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "Read the Docs: vanHeemstraSystems-tactical-planning-management\n\n\nRun the following command:\n$ pip install sphinx sphinx_rtd_theme recommonmark\nNext to create the docs run:\n$ cd docs\n$ make html\nYour docs will be created inside docs/build.\n\n\n\n\nMake sure there is a .readthedocs.yml file at the root of your GitHub repository.\nConnect your GitHub repository to ReadTheDocs at https://readthedocs.org/\n\n\nGo to ReadTheDocs and create an account\nClick “Import a Project”\nConnect your GitHub account if you haven’t already\nSelect your repository from the list\nConfigure your project settings\n\n\n\n\n\nPush your changes to GitHub\nReadTheDocs will automatically build your documentation\nVisit your project page on ReadTheDocs to see the result\n\n\n\n\nReadTheDocs should automatically set up webhooks, but if not:\n\nGo to your repository settings on GitHub\nGo to Webhooks\nAdd a webhook with the URL from your ReadTheDocs project settings\n\n\n\n\n\nBuild fails: Check the build logs on ReadTheDocs\nMissing content: Ensure all files are included in your toctree\nFormatting issues: Check that your Markdown/reStructuredText is valid\nImages not showing: Verify paths to images are correct\n\n\n\n\n\nUpdate your documentation files as needed\nPush changes to GitHub\nReadTheDocs will automatically rebuild\nUse ReadTheDocs’ versioning feature to maintain documentation for different releases\n\n\n\n\nOn ReadTheDocs, after logging in navigate to your GitHub repository entry (e.g., https://app.readthedocs.org/projects/YOUR-GITHUB-REPOSITOY-NAME/) and from the dotted menu (…) choose Rebuild version.\n\n\n\n\nImages: Move images to docs/source/_static/ and update references\nCode blocks: Ensure proper syntax highlighting is specified\nCross-references: Update to use Sphinx’s reference system\nMetadata: Add appropriate metadata to each page for better SEO\n\n\n\n\n\nBroken links: Double-check all links after conversion\nMissing images: Ensure all image paths are updated\nBuild failures: Check the ReadTheDocs build logs for errors\nFormatting differences: Some Markdown features might render differently in Sphinx\n\n\n\n\nVisit https://vanHeemstraSystems-tactical-planning-management.readthedocs.io/en/latest/"
+  },
+  {
+    "objectID": "DOCUMENTATION.html#install-readthedocs",
+    "href": "DOCUMENTATION.html#install-readthedocs",
+    "title": "Documentation",
+    "section": "",
+    "text": "Run the following command:\n$ pip install sphinx sphinx_rtd_theme recommonmark\nNext to create the docs run:\n$ cd docs\n$ make html\nYour docs will be created inside docs/build."
+  },
+  {
+    "objectID": "DOCUMENTATION.html#autogeneration-of-readthedocs",
+    "href": "DOCUMENTATION.html#autogeneration-of-readthedocs",
+    "title": "Documentation",
+    "section": "",
+    "text": "Make sure there is a .readthedocs.yml file at the root of your GitHub repository.\nConnect your GitHub repository to ReadTheDocs at https://readthedocs.org/\n\n\nGo to ReadTheDocs and create an account\nClick “Import a Project”\nConnect your GitHub account if you haven’t already\nSelect your repository from the list\nConfigure your project settings"
+  },
+  {
+    "objectID": "DOCUMENTATION.html#build-your-documentation",
+    "href": "DOCUMENTATION.html#build-your-documentation",
+    "title": "Documentation",
+    "section": "",
+    "text": "Push your changes to GitHub\nReadTheDocs will automatically build your documentation\nVisit your project page on ReadTheDocs to see the result"
+  },
+  {
+    "objectID": "DOCUMENTATION.html#set-up-webhooks-optional",
+    "href": "DOCUMENTATION.html#set-up-webhooks-optional",
+    "title": "Documentation",
+    "section": "",
+    "text": "ReadTheDocs should automatically set up webhooks, but if not:\n\nGo to your repository settings on GitHub\nGo to Webhooks\nAdd a webhook with the URL from your ReadTheDocs project settings"
+  },
+  {
+    "objectID": "DOCUMENTATION.html#troubleshooting",
+    "href": "DOCUMENTATION.html#troubleshooting",
+    "title": "Documentation",
+    "section": "",
+    "text": "Build fails: Check the build logs on ReadTheDocs\nMissing content: Ensure all files are included in your toctree\nFormatting issues: Check that your Markdown/reStructuredText is valid\nImages not showing: Verify paths to images are correct"
+  },
+  {
+    "objectID": "DOCUMENTATION.html#maintaining-your-documentation",
+    "href": "DOCUMENTATION.html#maintaining-your-documentation",
+    "title": "Documentation",
+    "section": "",
+    "text": "Update your documentation files as needed\nPush changes to GitHub\nReadTheDocs will automatically rebuild\nUse ReadTheDocs’ versioning feature to maintain documentation for different releases"
+  },
+  {
+    "objectID": "DOCUMENTATION.html#trigger-a-build-on-readthedocs",
+    "href": "DOCUMENTATION.html#trigger-a-build-on-readthedocs",
+    "title": "Documentation",
+    "section": "",
+    "text": "On ReadTheDocs, after logging in navigate to your GitHub repository entry (e.g., https://app.readthedocs.org/projects/YOUR-GITHUB-REPOSITOY-NAME/) and from the dotted menu (…) choose Rebuild version."
+  },
+  {
+    "objectID": "DOCUMENTATION.html#tips",
+    "href": "DOCUMENTATION.html#tips",
+    "title": "Documentation",
+    "section": "",
+    "text": "Images: Move images to docs/source/_static/ and update references\nCode blocks: Ensure proper syntax highlighting is specified\nCross-references: Update to use Sphinx’s reference system\nMetadata: Add appropriate metadata to each page for better SEO"
+  },
+  {
+    "objectID": "DOCUMENTATION.html#common-issues",
+    "href": "DOCUMENTATION.html#common-issues",
+    "title": "Documentation",
+    "section": "",
+    "text": "Broken links: Double-check all links after conversion\nMissing images: Ensure all image paths are updated\nBuild failures: Check the ReadTheDocs build logs for errors\nFormatting differences: Some Markdown features might render differently in Sphinx"
+  },
+  {
+    "objectID": "DOCUMENTATION.html#view-the-documentation",
+    "href": "DOCUMENTATION.html#view-the-documentation",
+    "title": "Documentation",
+    "section": "",
+    "text": "Visit https://vanHeemstraSystems-tactical-planning-management.readthedocs.io/en/latest/"
+  },
+  {
+    "objectID": "README.es.html",
+    "href": "README.es.html",
+    "title": "Nombre de repositorio",
+    "section": "",
+    "text": "repositorio"
+  },
+  {
+    "objectID": "README.es.html#introducción",
+    "href": "README.es.html#introducción",
+    "title": "Nombre de repositorio",
+    "section": "100 - Introducción",
+    "text": "100 - Introducción\nVerREADME.md"
+  },
+  {
+    "objectID": "README.es.html#requisitos",
+    "href": "README.es.html#requisitos",
+    "title": "Nombre de repositorio",
+    "section": "200 - Requisitos",
+    "text": "200 - Requisitos\nVerREADME.md"
+  },
+  {
+    "objectID": "README.es.html#construyendo-nuestra-aplicación",
+    "href": "README.es.html#construyendo-nuestra-aplicación",
+    "title": "Nombre de repositorio",
+    "section": "300 - Construyendo nuestra aplicación",
+    "text": "300 - Construyendo nuestra aplicación\nVerREADME.md"
+  },
+  {
+    "objectID": "README.es.html#conclusión",
+    "href": "README.es.html#conclusión",
+    "title": "Nombre de repositorio",
+    "section": "400 - Conclusión",
+    "text": "400 - Conclusión\nVerREADME.md"
+  },
+  {
+    "objectID": "PODMAN.html",
+    "href": "PODMAN.html",
+    "title": "Podman",
+    "section": "",
+    "text": "Podman\nHere’s a guide to install and use Podman on macOS:\n\nInstallation using Homebrew:\n\nbrew install podman\n\nInitialize and start the Podman service:\n\npodman machine init  # Create a new VM\npodman machine start  # Start the VM\n\nBasic Commands:\n\n# Pull an image\npodman pull nginx\n\n# List images\npodman images\n\n# Run a container\npodman run -d -p 8080:80 nginx\n\n# List running containers\npodman ps\n\n# Stop a container\npodman stop &lt;container_id&gt;\n\n# Remove a container\npodman rm &lt;container_id&gt;\n\n# Remove an image\npodman rmi &lt;image_name&gt;\n\n# Clean up unused resources\npodman system prune\n\nDocker Compatibility:\n\nPodman is designed to be compatible with Docker, allowing you to use most Docker commands with Podman.\nCreate an alias in your ~/.zshrc or ~/.bash_profile:\nalias docker=podman\n\nUsing Podman Compose:\n\nbrew install podman-compose\n\n# Run docker-compose files\npodman-compose up -d\n\nManaging the Podman Machine:\n\n# Check machine status\npodman machine list\n\n# Stop the machine\npodman machine stop\n\n# Remove the machine\npodman machine rm\n\n# View machine logs\npodman machine logs\n\n# Check machine status\npodman machine status\n\n# Access machine via SSH\npodman machine ssh\n\nConfigure Resources:\n\npodman machine set --cpus 4 --memory 4096\n\nConnect to Podman:\n\n# Get connection info\npodman info\n\n# Connect to container shell\npodman exec -it &lt;container_id&gt; /bin/bash\n\nPodman Desktop:\n\nPodman Desktop provides a GUI alternative to Docker Desktop with lower resource consumption.\n# Install Podman Desktop\nbrew install --cask podman-desktop\n\n# Or download from:\n# https://podman-desktop.io/\nKey benefits of Podman Desktop: - Lower memory footprint than Docker Desktop - Native support for rootless containers - Compatible with Docker Compose files - Built-in container and image management - Integration with multiple container engines"
+  },
+  {
+    "objectID": "NX.html",
+    "href": "NX.html",
+    "title": "Nx",
+    "section": "",
+    "text": "Nx\nBased on “Installation” at https://nx.dev/getting-started/installation\nInstall Nx (required for Nx Monorepos and Nx Cloud) globally as follows:\n$ npm add --global nx@latest\nTo use nx directly, you can now just use:\n$ nx --version\nTo update nx, run:\n$ cd hatch-project/src/hatch_project\n$ npx nx migrate latest # if nx has not yet been installed\n$ nx migrate latest     # if nx has already been installed\nBased on the provided repository structure and documentation, I’ll help you run the Hatch project. The project appears to be set up as a React monorepo using Nx. Here are the steps to run it:\n\nFirst, make sure you’re in the root directory of the repository:\n\ncd /path/to/your/repository\n\nInstall the dependencies:\n\nnpm ci  # This installs dependencies exactly as specified in package-lock.json\n\nInstall the Nx CLI globally (if not already installed):\n\nnpm install -g @nrwl/cli\nMake sure you have a tsconfig.base.json file in your hatch-project/src/hatch_project directory. If not, create one:\n{\n  \"compileOnSave\": false,\n  \"compilerOptions\": {\n    \"rootDir\": \".\",\n    \"sourceMap\": true,\n    \"declaration\": false,\n    \"moduleResolution\": \"node\",\n    \"emitDecoratorMetadata\": true,\n    \"experimentalDecorators\": true,\n    \"importHelpers\": true,\n    \"target\": \"es2015\",\n    \"module\": \"esnext\",\n    \"lib\": [\"es2020\", \"dom\"],\n    \"skipLibCheck\": true,\n    \"skipDefaultLibCheck\": true,\n    \"baseUrl\": \".\",\n    \"paths\": {}\n  },\n  \"exclude\": [\"node_modules\", \"tmp\"]\n}\nMake sure you have a tsconfig.app.json file in your hatch-project/src/hatch_project directory. If not, create one:\n{\n  \"extends\": \"./tsconfig.base.json\",\n  \"compilerOptions\": {\n    \"outDir\": \"../../dist/out-tsc\",\n    \"types\": [\"node\"],\n    \"module\": \"esnext\",\n    \"target\": \"es2015\",\n    \"lib\": [\"es2020\", \"dom\"],\n    \"sourceMap\": true,\n    \"declaration\": false\n  },\n  \"exclude\": [\"**/*.spec.ts\", \"**/*.test.ts\"],\n  \"include\": [\"**/*.ts\"]\n}\nMake sure you have a project.json file in your hatch-project/src/hatch_project directory. If not, create one:\n{\n  \"name\": \"hatch_project\",\n  \"$schema\": \"../../../node_modules/nx/schemas/project-schema.json\",\n  \"sourceRoot\": \"hatch-project/src/hatch_project/src\",\n  \"projectType\": \"application\",\n  \"targets\": {\n    \"build\": {\n      \"executor\": \"@nx/webpack:webpack\",\n      \"outputs\": [\"{options.outputPath}\"],\n      \"defaultConfiguration\": \"production\",\n      \"options\": {\n        \"outputPath\": \"dist/hatch_project\",\n        \"compiler\": \"babel\",\n        \"main\": \"hatch-project/src/hatch_project/src/main.ts\",\n        \"tsConfig\": \"hatch-project/src/hatch_project/tsconfig.app.json\",\n        \"webpackConfig\": \"hatch-project/src/hatch_project/webpack.config.js\",\n        \"assets\": [\n          {\n            \"glob\": \"**/*\",\n            \"input\": \"hatch-project/src/hatch_project/src/assets\",\n            \"output\": \"assets\"\n          }\n        ],\n        \"index\": \"hatch-project/src/hatch_project/src/index.html\"\n      },\n      \"configurations\": {\n        \"production\": {\n          \"optimization\": true,\n          \"outputHashing\": \"all\",\n          \"sourceMap\": false,\n          \"extractCss\": true,\n          \"namedChunks\": false,\n          \"extractLicenses\": true,\n          \"vendorChunk\": false,\n          \"budgets\": [\n            {\n              \"type\": \"initial\",\n              \"maximumWarning\": \"2mb\",\n              \"maximumError\": \"5mb\"\n            }\n          ]\n        },\n        \"development\": {\n          \"optimization\": false,\n          \"sourceMap\": true,\n          \"extractCss\": false\n        }\n      }\n    },\n    \"serve\": {\n      \"executor\": \"@nx/webpack:dev-server\",\n      \"options\": {\n        \"buildTarget\": \"hatch_project:build\",\n        \"hmr\": true,\n        \"port\": 4200\n      },\n      \"configurations\": {\n        \"production\": {\n          \"buildTarget\": \"hatch_project:build:production\"\n        },\n        \"development\": {\n          \"buildTarget\": \"hatch_project:build:development\"\n        }\n      },\n      \"defaultConfiguration\": \"development\"\n    }\n  }\n}\nCreate a basic webpack.config.js file in your project:\nconst { composePlugins, withNx } = require('@nx/webpack');\n\n// Nx plugins for webpack.\nmodule.exports = composePlugins(withNx(), (config) =&gt; {\n  // Update the webpack config as needed here.\n  // e.g. `config.plugins.push(new MyPlugin())`\n  return config;\n});\nYou can use the Nx generate command to create a new app in the hatch-project/src/hatch_project/apps directory. Here’s how:\n$ cd /hatch-project/src/hatch_project\n$npx nx g @nx/react:app my-app --directory=apps/my-app\nOr if you want to create it from the root directory:\n$ npx nx g @nx/react:app my-app --directory=hatch-project/src/hatch_project/apps/my-app\nThis will: - Create a new React application with all necessary files - Set up the proper directory structure - Configure webpack, TypeScript, and other dependencies - Create default components and configuration files\nAll the necessary files were created in hatch-project/src/hatch_project/apps/my-app/. You can start developing by editing: - apps/my-app/src/app/app.tsx - Main application component - apps/my-app/src/styles.css - Global styles - apps/my-app/src/main.tsx - Application entry point\nAfter creation, you can run it with:\n$ npx nx serve my-app\n\nTo serve the application in development mode:\n\nnpx nx serve hatch_project\nThis will: - Start a development server - Usually be available at http://localhost:4200 - Auto-reload when you make changes\nIf that doesn’t work, we might need to check if Nx recognizes the project:\nnpx nx show project hatch_project\n\nAlternatively, if you want to build the application:\n\nnpx nx build hatch_project\nFor production build:\nnpx nx build hatch_project --configuration=production\nTo run tests:\nnpx nx test hatch_project\nIf you want to run multiple tasks in parallel (e.g., build all projects):\nnpx nx run-many -t build --all\nTo generate code:\nnpx nx g @nrwl/react:component my-component\nCommon issues and solutions:\nIf you get path-related errors, make sure your nx.json is properly configured with the correct paths for your nested structure:\n{\n  \"projects\": {\n    \"hatch_project\": {\n      \"root\": \"hatch-project/src/hatch_project\",\n      \"sourceRoot\": \"hatch-project/src/hatch_project/src\",\n      \"projectType\": \"application\"\n    }\n  }\n}\nIf you encounter issues with the Nx CLI, ensure it’s properly installed:\nnpm install -g @nrwl/cli\n\nIf you get Nx Cloud connection issues, you may need to reconnect:\n\nnx generate @nx/workspace:disconnect-cloud\nnx connect-to-nx-cloud\n\nIf you need to clean the cache:\n\nnpm cache clean --force\nRemember that all Nx commands should be run from the root of the repository where the nx.json file is located."
+  },
+  {
+    "objectID": "README.zh-TW.html",
+    "href": "README.zh-TW.html",
+    "title": "存儲庫名稱",
+    "section": "",
+    "text": "repository-name"
+  },
+  {
+    "objectID": "README.zh-TW.html#簡介",
+    "href": "README.zh-TW.html#簡介",
+    "title": "存儲庫名稱",
+    "section": "100-簡介",
+    "text": "100-簡介\n看README.md"
+  },
+  {
+    "objectID": "README.zh-TW.html#要求",
+    "href": "README.zh-TW.html#要求",
+    "title": "存儲庫名稱",
+    "section": "200-要求",
+    "text": "200-要求\n看README.md"
+  },
+  {
+    "objectID": "README.zh-TW.html#構建我們的應用程序",
+    "href": "README.zh-TW.html#構建我們的應用程序",
+    "title": "存儲庫名稱",
+    "section": "300-構建我們的應用程序",
+    "text": "300-構建我們的應用程序\n看README.md"
+  },
+  {
+    "objectID": "README.zh-TW.html#結論",
+    "href": "README.zh-TW.html#結論",
+    "title": "存儲庫名稱",
+    "section": "400-結論",
+    "text": "400-結論\n看README.md"
+  },
+  {
+    "objectID": "README.ar.html",
+    "href": "README.ar.html",
+    "title": "اسم المستودع",
+    "section": "",
+    "text": "اسم المستودع"
+  },
+  {
+    "objectID": "README.ar.html#مقدمة",
+    "href": "README.ar.html#مقدمة",
+    "title": "اسم المستودع",
+    "section": "100 - مقدمة",
+    "text": "100 - مقدمة\nيرىREADME.md"
+  },
+  {
+    "objectID": "README.ar.html#المتطلبات",
+    "href": "README.ar.html#المتطلبات",
+    "title": "اسم المستودع",
+    "section": "200 - المتطلبات",
+    "text": "200 - المتطلبات\nيرىREADME.md"
+  },
+  {
+    "objectID": "README.ar.html#بناء-تطبيقنا",
+    "href": "README.ar.html#بناء-تطبيقنا",
+    "title": "اسم المستودع",
+    "section": "300 - بناء تطبيقنا",
+    "text": "300 - بناء تطبيقنا\nيرىREADME.md"
+  },
+  {
+    "objectID": "README.ar.html#الخلاصة",
+    "href": "README.ar.html#الخلاصة",
+    "title": "اسم المستودع",
+    "section": "400 - الخلاصة",
+    "text": "400 - الخلاصة\nيرىREADME.md"
+  },
+  {
+    "objectID": "HOSTS.html",
+    "href": "HOSTS.html",
+    "title": "Hosts",
+    "section": "",
+    "text": "To connect via SSH to Hetzner use the following instructions:\nMake sure the ~/.ssh/config file contains a reference to Hetzner:\nHost hetzner\n  Hostname &lt;hostname_or_ip&gt;\n  User &lt;username&gt;\n  Port 22\n  IdentityFile ~/.ssh/hetzner\n  CertificateFile ~/.ssh/hetzner.pub\n  # Disable password authentication for better security\n  PasswordAuthentication no\n  # Prevent TCP forwarding if not needed\n  AllowTcpForwarding no\n  # Additional security hardening\n  KexAlgorithms curve25519-sha256@libssh.org,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512\n  MACs hmac-sha2-512-etm@openssh.com,hmac-sha2-256-etm@openssh.com\n  Ciphers chacha20-poly1305@openssh.com,aes256-gcm@openssh.com\n  HostKeyAlgorithms ssh-ed25519,rsa-sha2-512,rsa-sha2-256\n~/.ssh/config\nThen all you have to do to connect is:\n$ ssh hetzner"
+  },
+  {
+    "objectID": "HOSTS.html#hetzner",
+    "href": "HOSTS.html#hetzner",
+    "title": "Hosts",
+    "section": "",
+    "text": "To connect via SSH to Hetzner use the following instructions:\nMake sure the ~/.ssh/config file contains a reference to Hetzner:\nHost hetzner\n  Hostname &lt;hostname_or_ip&gt;\n  User &lt;username&gt;\n  Port 22\n  IdentityFile ~/.ssh/hetzner\n  CertificateFile ~/.ssh/hetzner.pub\n  # Disable password authentication for better security\n  PasswordAuthentication no\n  # Prevent TCP forwarding if not needed\n  AllowTcpForwarding no\n  # Additional security hardening\n  KexAlgorithms curve25519-sha256@libssh.org,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512\n  MACs hmac-sha2-512-etm@openssh.com,hmac-sha2-256-etm@openssh.com\n  Ciphers chacha20-poly1305@openssh.com,aes256-gcm@openssh.com\n  HostKeyAlgorithms ssh-ed25519,rsa-sha2-512,rsa-sha2-256\n~/.ssh/config\nThen all you have to do to connect is:\n$ ssh hetzner"
+  },
+  {
+    "objectID": "HATCH.html",
+    "href": "HATCH.html",
+    "title": "Hatch",
+    "section": "",
+    "text": "Warning: Make sure you have completed the REQUIREMENTS.md for Hatch before continuing.\n\n\nWhen you create any Python application, you have to create a folder structure for your application logic, tests, documentation, and other project-specific files like pyproject.toml. As a project manager, Hatch lets you initialize a Python application that contains all the project setup files and folders. You just need to make changes to these files to fit your application.\nTo create a new project, all you have to do is run the hatch new &lt;project name&gt; command. This command creates a project directory containing a source code directory (src), a test directory (tests), and a configuration file for project-related tools (pyproject.toml).\nFor this tutorial, let’s create a simple Python application named hatch-project that uses a Flask API. To do so, FROM THE ROOT OF THE REPOSITORY run $ hatch new \"Hatch Project\". The folder structure that’s created will look like this:\n$ hatch new \"Hatch Project\"\nhatch-project\n|---- src\n|     |---- hatch_project\n|           |---- __about__.py\n|           |---- __init__.py\n|---- tests\n|     |---- __init__.py\n|---- LICENSE.txt\n|---- README.md\n|---- pyproject.toml\n\nNote: If you want to initialize an existing project, you can do so using the hatch new --init command. If there is a setup.py file available in your project, a setuptools file will be generated from it. Otherwise, Hatch interactively guides you to produce the content for the configuration file.\n\nWe list the content for most of these files next.\n# Hatch Project\n\n[![PyPI - Version](https://img.shields.io/pypi/v/hatch-project.svg)](https://pypi.org/project/hatch-project)\n[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hatch-project.svg)](https://pypi.org/project/hatch-project)\n\n-----\n\n## Table of Contents\n\n- [Installation](#installation)\n- [License](#license)\n\n## Installation\n\n\\`\\`\\`console\npip install hatch-project\n\\`\\`\\`\n\n## License\n\n`hatch-project` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.\nhatch-project/README.md\n[build-system]\nrequires = [\"hatchling\"]\nbuild-backend = \"hatchling.build\"\n\n[project]\nname = \"hatch-project\"\ndynamic = [\"version\"]\ndescription = ''\nreadme = \"README.md\"\nrequires-python = \"&gt;=3.8\"\nlicense = \"MIT\"\nkeywords = []\nauthors = [\n  { name = \"Willem van Heemstra\", email = \"wvanheemstra@icloud.com\" },\n]\nclassifiers = [\n  \"Development Status :: 4 - Beta\",\n  \"Programming Language :: Python\",\n  \"Programming Language :: Python :: 3.8\",\n  \"Programming Language :: Python :: 3.9\",\n  \"Programming Language :: Python :: 3.10\",\n  \"Programming Language :: Python :: 3.11\",\n  \"Programming Language :: Python :: 3.12\",\n  \"Programming Language :: Python :: Implementation :: CPython\",\n  \"Programming Language :: Python :: Implementation :: PyPy\",\n]\ndependencies = []\n\n[project.urls]\nDocumentation = \"https://github.com/Willem van Heemstra/hatch-project#readme\"\nIssues = \"https://github.com/Willem van Heemstra/hatch-project/issues\"\nSource = \"https://github.com/Willem van Heemstra/hatch-project\"\n\n[tool.hatch.version]\npath = \"src/hatch_project/__about__.py\"\n\n[tool.hatch.envs.types]\nextra-dependencies = [\n  \"mypy&gt;=1.0.0\",\n]\n[tool.hatch.envs.types.scripts]\ncheck = \"mypy --install-types --non-interactive {args:src/hatch_project tests}\"\n\n[tool.coverage.run]\nsource_pkgs = [\"hatch_project\", \"tests\"]\nbranch = true\nparallel = true\nomit = [\n  \"src/hatch_project/__about__.py\",\n]\n\n[tool.coverage.paths]\nhatch_project = [\"src/hatch_project\", \"*/hatch-project/src/hatch_project\"]\ntests = [\"tests\", \"*/hatch-project/tests\"]\n\n[tool.coverage.report]\nexclude_lines = [\n  \"no cov\",\n  \"if __name__ == .__main__.:\",\n  \"if TYPE_CHECKING:\",\n]\nhatch-project/pyproject.toml\nMIT License\n\nCopyright (c) 2025 van Heemstra Systems\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\nhatch-project/LICENSE.txt\n# SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;\n#\n# SPDX-License-Identifier: MIT\n__version__ = \"0.0.1\"\nhatch-project/src/hatch_project/__about__.py\n# SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;\n#\n# SPDX-License-Identifier: MIT\nhatch-project/src/hatch_project/__init__.py\n# SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;\n#\n# SPDX-License-Identifier: MIT\nhatch-project/tests/hatch_project/__init__.py\nOnce you’ve created your Python application, open the pyproject.toml file. You should see that a lot of your project configuration values, such as dependencies and the Python version, are prefilled by Hatch. You’ll also notice other sections with the pattern [tool.hatch.*], which is where you’ll configure your project to use different Python dependencies, environments, and Python versions.\nMore …"
+  },
+  {
+    "objectID": "HATCH.html#creating-a-project",
+    "href": "HATCH.html#creating-a-project",
+    "title": "Hatch",
+    "section": "",
+    "text": "When you create any Python application, you have to create a folder structure for your application logic, tests, documentation, and other project-specific files like pyproject.toml. As a project manager, Hatch lets you initialize a Python application that contains all the project setup files and folders. You just need to make changes to these files to fit your application.\nTo create a new project, all you have to do is run the hatch new &lt;project name&gt; command. This command creates a project directory containing a source code directory (src), a test directory (tests), and a configuration file for project-related tools (pyproject.toml).\nFor this tutorial, let’s create a simple Python application named hatch-project that uses a Flask API. To do so, FROM THE ROOT OF THE REPOSITORY run $ hatch new \"Hatch Project\". The folder structure that’s created will look like this:\n$ hatch new \"Hatch Project\"\nhatch-project\n|---- src\n|     |---- hatch_project\n|           |---- __about__.py\n|           |---- __init__.py\n|---- tests\n|     |---- __init__.py\n|---- LICENSE.txt\n|---- README.md\n|---- pyproject.toml\n\nNote: If you want to initialize an existing project, you can do so using the hatch new --init command. If there is a setup.py file available in your project, a setuptools file will be generated from it. Otherwise, Hatch interactively guides you to produce the content for the configuration file.\n\nWe list the content for most of these files next.\n# Hatch Project\n\n[![PyPI - Version](https://img.shields.io/pypi/v/hatch-project.svg)](https://pypi.org/project/hatch-project)\n[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hatch-project.svg)](https://pypi.org/project/hatch-project)\n\n-----\n\n## Table of Contents\n\n- [Installation](#installation)\n- [License](#license)\n\n## Installation\n\n\\`\\`\\`console\npip install hatch-project\n\\`\\`\\`\n\n## License\n\n`hatch-project` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.\nhatch-project/README.md\n[build-system]\nrequires = [\"hatchling\"]\nbuild-backend = \"hatchling.build\"\n\n[project]\nname = \"hatch-project\"\ndynamic = [\"version\"]\ndescription = ''\nreadme = \"README.md\"\nrequires-python = \"&gt;=3.8\"\nlicense = \"MIT\"\nkeywords = []\nauthors = [\n  { name = \"Willem van Heemstra\", email = \"wvanheemstra@icloud.com\" },\n]\nclassifiers = [\n  \"Development Status :: 4 - Beta\",\n  \"Programming Language :: Python\",\n  \"Programming Language :: Python :: 3.8\",\n  \"Programming Language :: Python :: 3.9\",\n  \"Programming Language :: Python :: 3.10\",\n  \"Programming Language :: Python :: 3.11\",\n  \"Programming Language :: Python :: 3.12\",\n  \"Programming Language :: Python :: Implementation :: CPython\",\n  \"Programming Language :: Python :: Implementation :: PyPy\",\n]\ndependencies = []\n\n[project.urls]\nDocumentation = \"https://github.com/Willem van Heemstra/hatch-project#readme\"\nIssues = \"https://github.com/Willem van Heemstra/hatch-project/issues\"\nSource = \"https://github.com/Willem van Heemstra/hatch-project\"\n\n[tool.hatch.version]\npath = \"src/hatch_project/__about__.py\"\n\n[tool.hatch.envs.types]\nextra-dependencies = [\n  \"mypy&gt;=1.0.0\",\n]\n[tool.hatch.envs.types.scripts]\ncheck = \"mypy --install-types --non-interactive {args:src/hatch_project tests}\"\n\n[tool.coverage.run]\nsource_pkgs = [\"hatch_project\", \"tests\"]\nbranch = true\nparallel = true\nomit = [\n  \"src/hatch_project/__about__.py\",\n]\n\n[tool.coverage.paths]\nhatch_project = [\"src/hatch_project\", \"*/hatch-project/src/hatch_project\"]\ntests = [\"tests\", \"*/hatch-project/tests\"]\n\n[tool.coverage.report]\nexclude_lines = [\n  \"no cov\",\n  \"if __name__ == .__main__.:\",\n  \"if TYPE_CHECKING:\",\n]\nhatch-project/pyproject.toml\nMIT License\n\nCopyright (c) 2025 van Heemstra Systems\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\nhatch-project/LICENSE.txt\n# SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;\n#\n# SPDX-License-Identifier: MIT\n__version__ = \"0.0.1\"\nhatch-project/src/hatch_project/__about__.py\n# SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;\n#\n# SPDX-License-Identifier: MIT\nhatch-project/src/hatch_project/__init__.py\n# SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;\n#\n# SPDX-License-Identifier: MIT\nhatch-project/tests/hatch_project/__init__.py\nOnce you’ve created your Python application, open the pyproject.toml file. You should see that a lot of your project configuration values, such as dependencies and the Python version, are prefilled by Hatch. You’ll also notice other sections with the pattern [tool.hatch.*], which is where you’ll configure your project to use different Python dependencies, environments, and Python versions.\nMore …"
+  },
+  {
+    "objectID": "DNS.html",
+    "href": "DNS.html",
+    "title": "DNS",
+    "section": "",
+    "text": "DNS"
+  },
+  {
+    "objectID": "TELEMETRY.html",
+    "href": "TELEMETRY.html",
+    "title": "Telemetry",
+    "section": "",
+    "text": "Telemetry\nhttps://app.uptrace.dev/\nTo start sending tracing data to Uptrace, you need to configure OpenTelemetry Tracing SDK. To view and collect metrics, see the Metrics navigation section on the right.\nUse the following DSN to configure OpenTelemetry for your programming language:\nexport UPTRACE_DSN=\"https://4u5UnSF8ck63yJD33QZTrg@api.uptrace.dev?grpc=4317\"\nSee Monitor Flask performance with OpenTelemetry"
+  },
+  {
+    "objectID": "IMAGES.html",
+    "href": "IMAGES.html",
+    "title": "Images",
+    "section": "",
+    "text": "MyImage: https://hub.docker.com/repository/docker/vanheemstrasystems/myimage"
+  },
+  {
+    "objectID": "IMAGES.html#docker-images",
+    "href": "IMAGES.html#docker-images",
+    "title": "Images",
+    "section": "",
+    "text": "MyImage: https://hub.docker.com/repository/docker/vanheemstrasystems/myimage"
+  },
+  {
+    "objectID": "README.nl.html",
+    "href": "README.nl.html",
+    "title": "Repository -naam",
+    "section": "",
+    "text": "repository-naam"
+  },
+  {
+    "objectID": "README.nl.html#inleiding",
+    "href": "README.nl.html#inleiding",
+    "title": "Repository -naam",
+    "section": "100 - Inleiding",
+    "text": "100 - Inleiding\nSee README.md"
+  },
+  {
+    "objectID": "README.nl.html#vereisten",
+    "href": "README.nl.html#vereisten",
+    "title": "Repository -naam",
+    "section": "200 - Vereisten",
+    "text": "200 - Vereisten\nZienREADME.md"
+  },
+  {
+    "objectID": "README.nl.html#onze-applicatie-bouwen",
+    "href": "README.nl.html#onze-applicatie-bouwen",
+    "title": "Repository -naam",
+    "section": "300 - onze applicatie bouwen",
+    "text": "300 - onze applicatie bouwen\nZienREADME.md"
+  },
+  {
+    "objectID": "README.nl.html#conclusie",
+    "href": "README.nl.html#conclusie",
+    "title": "Repository -naam",
+    "section": "400 - Conclusie",
+    "text": "400 - Conclusie\nZienREADME.md"
+  }
+]
