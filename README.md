@@ -17,7 +17,7 @@ tactical-planning-management
 
 **Executive Summary**
 
-[Strategic planning](https://github.com/vanHeemstraSystems/strategic-planning-management) (6 years timespan) is the lead to tactical planning (6 quarter timespan).
+[Strategic planning](https://github.com/vanHeemstraSystems/strategic-planning-management) (6 years timespan) is the lead to tactical planning (6 quarters timespan).
 
 Generated with [Rytr](https://app.rytr.me)
 
