@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>hatch – Tactical Planning Management</title>
+<title>About – Tactical Planning Management</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -94,7 +94,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -108,172 +108,34 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#hatch" id="toc-hatch" class="nav-link active" data-scroll-target="#hatch">Hatch</a>
-  <ul class="collapse">
-  <li><a href="#creating-a-project" id="toc-creating-a-project" class="nav-link" data-scroll-target="#creating-a-project">Creating a Project</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">About</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<section id="hatch" class="level1">
-<h1>Hatch</h1>
-<p><strong>Warning</strong>: Make sure you have completed the <a href="./REQUIREMENTS.html">REQUIREMENTS.md</a> for Hatch before continuing.</p>
-<section id="creating-a-project" class="level2">
-<h2 class="anchored" data-anchor-id="creating-a-project">Creating a Project</h2>
-<p>When you create any Python application, you have to create a folder structure for your application logic, tests, documentation, and other project-specific files like <code>pyproject.toml</code>. As a project manager, Hatch lets you initialize a Python application that contains all the project setup files and folders. You just need to make changes to these files to fit your application.</p>
-<p>To create a new project, all you have to do is run the <code>hatch new &lt;project name&gt;</code> command. This command creates a project directory containing a source code directory (<code>src</code>), a test directory (<code>tests</code>), and a configuration file for project-related tools (<code>pyproject.toml</code>).</p>
-<p>For this tutorial, let’s create a simple Python application named hatch-project that uses a Flask API. To do so, <strong>FROM THE ROOT OF THE REPOSITORY</strong> run <code>$ hatch new "Hatch Project"</code>. The folder structure that’s created will look like this:</p>
-<pre><code>$ hatch new "Hatch Project"
-hatch-project
-|---- src
-|     |---- hatch_project
-|           |---- __about__.py
-|           |---- __init__.py
-|---- tests
-|     |---- __init__.py
-|---- LICENSE.txt
-|---- README.md
-|---- pyproject.toml</code></pre>
-<blockquote class="blockquote">
-<p><strong>Note</strong>: If you want to initialize an existing project, you can do so using the <code>hatch new --init</code> command. If there is a <code>setup.py</code> file available in your project, a <code>setuptools</code> file will be generated from it. Otherwise, Hatch interactively guides you to produce the content for the configuration file.</p>
-</blockquote>
-<p>We list the content for most of these files next.</p>
-<pre><code># Hatch Project
-
-[![PyPI - Version](https://img.shields.io/pypi/v/hatch-project.svg)](https://pypi.org/project/hatch-project)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hatch-project.svg)](https://pypi.org/project/hatch-project)
-
------
-
-## Table of Contents
-
-- [Installation](#installation)
-- [License](#license)
-
-## Installation
-
-\`\`\`console
-pip install hatch-project
-\`\`\`
-
-## License
-
-`hatch-project` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.</code></pre>
-<p>hatch-project/README.md</p>
-<pre><code>[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-[project]
-name = "hatch-project"
-dynamic = ["version"]
-description = ''
-readme = "README.md"
-requires-python = "&gt;=3.8"
-license = "MIT"
-keywords = []
-authors = [
-  { name = "Willem van Heemstra", email = "wvanheemstra@icloud.com" },
-]
-classifiers = [
-  "Development Status :: 4 - Beta",
-  "Programming Language :: Python",
-  "Programming Language :: Python :: 3.8",
-  "Programming Language :: Python :: 3.9",
-  "Programming Language :: Python :: 3.10",
-  "Programming Language :: Python :: 3.11",
-  "Programming Language :: Python :: 3.12",
-  "Programming Language :: Python :: Implementation :: CPython",
-  "Programming Language :: Python :: Implementation :: PyPy",
-]
-dependencies = []
-
-[project.urls]
-Documentation = "https://github.com/Willem van Heemstra/hatch-project#readme"
-Issues = "https://github.com/Willem van Heemstra/hatch-project/issues"
-Source = "https://github.com/Willem van Heemstra/hatch-project"
-
-[tool.hatch.version]
-path = "src/hatch_project/__about__.py"
-
-[tool.hatch.envs.types]
-extra-dependencies = [
-  "mypy&gt;=1.0.0",
-]
-[tool.hatch.envs.types.scripts]
-check = "mypy --install-types --non-interactive {args:src/hatch_project tests}"
-
-[tool.coverage.run]
-source_pkgs = ["hatch_project", "tests"]
-branch = true
-parallel = true
-omit = [
-  "src/hatch_project/__about__.py",
-]
-
-[tool.coverage.paths]
-hatch_project = ["src/hatch_project", "*/hatch-project/src/hatch_project"]
-tests = ["tests", "*/hatch-project/tests"]
-
-[tool.coverage.report]
-exclude_lines = [
-  "no cov",
-  "if __name__ == .__main__.:",
-  "if TYPE_CHECKING:",
-]</code></pre>
-<p>hatch-project/pyproject.toml</p>
-<pre><code>MIT License
-
-Copyright (c) 2025 van Heemstra Systems
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.</code></pre>
-<p>hatch-project/LICENSE.txt</p>
-<pre><code># SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;
-#
-# SPDX-License-Identifier: MIT
-__version__ = "0.0.1"</code></pre>
-<p>hatch-project/src/hatch_project/__about__.py</p>
-<pre><code># SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;
-#
-# SPDX-License-Identifier: MIT</code></pre>
-<p>hatch-project/src/hatch_project/__init__.py</p>
-<pre><code># SPDX-FileCopyrightText: 2025-present Willem van Heemstra &lt;wvanheemstra@icloud.com&gt;
-#
-# SPDX-License-Identifier: MIT</code></pre>
-<p>hatch-project/tests/hatch_project/__init__.py</p>
-<p>Once you’ve created your Python application, open the <code>pyproject.toml</code> file. You should see that a lot of your project configuration values, such as dependencies and the Python version, are prefilled by Hatch. You’ll also notice other sections with the pattern <code>[tool.hatch.*]</code>, which is where you’ll configure your project to use different Python dependencies, environments, and Python versions.</p>
-<p>More …</p>
+    
+  
+    
+  </div>
+  
 
 
-</section>
-</section>
+</header>
+
+
+<p>About this site</p>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
