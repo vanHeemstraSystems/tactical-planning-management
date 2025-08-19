@@ -21,7 +21,7 @@ tactical-planning-management
 
 Generated with [Rytr](https://app.rytr.me)
 
-![Image](https://github.com/user-attachments/assets/b8b7b6d0-6511-4dea-8934-be7b5257d7fc)
+<img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/44d09f37-42a0-4252-949d-781c7186c68a" />
 
 <table>
 <th colspan="5">Summarize with:</th><tr/> 
